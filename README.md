@@ -12,3 +12,5 @@ Dożywają nawet 50 lat, średnio żyją ok. 35 – 40 lat. Dojrzałość osiąg
 Orangutany inteligencją dorównują kilkuletnim dzieciom. Szybko się uczą. Są najmniej agresywnymi małpami i charakteryzują się przyjaznym nastawieniem.
 
 Pełnią bardzo ważną rolę w ekosystemie  – w istotny sposób przyczyniają się do rozsiewania nasion wielu gatunków drzew.
+
+[Żródło](https://zoo.gda.pl/edukacja/ocalmy-orangutany-olejolej/orangutany/)
