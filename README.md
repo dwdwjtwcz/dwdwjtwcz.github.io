@@ -1,5 +1,5 @@
-# AGH Wstęp do Informatyki 2022/2023
-#Orangutany to duże małpy człekokształtne zamieszkujące tylko dwie wyspy w południowo-wschodniej Azji – Sumatrę i Borneo. Mają długą sierść, koloru rudoczerwonego. Występuje u nich silny dymorfizm płciowy, masa ciała dojrzałych samców może osiągnąć 100kg, samice są o około połowę mniejsze. Aktywne seksualnie samce posiadają #charakterystyczne, silnie wykształcone talerze policzkowe oraz worek gardłowy. Kończyny górne  są 1,5 razy dłuższe od kończyn dolnych.
+# Orangutany
+Orangutany to duże małpy człekokształtne zamieszkujące tylko dwie wyspy w południowo-wschodniej Azji – Sumatrę i Borneo. Mają długą sierść, koloru rudoczerwonego. Występuje u nich silny dymorfizm płciowy, masa ciała dojrzałych samców może osiągnąć 100kg, samice są o około połowę mniejsze. Aktywne seksualnie samce posiadają charakterystyczne, silnie wykształcone talerze policzkowe oraz worek gardłowy. Kończyny górne  są 1,5 razy dłuższe od kończyn dolnych.
 
 Zamieszkują podmokłe lasy tropikalne, położone zazwyczaj do wysokości 500 m n.p.m. Prowadzą dzienny, nadrzewny tryb życia. Dobrze się wspinają, używając czterech kończyn, w koronach drzew (tzw. brachiacja). Po ziemi poruszają się na czterech kończynach.
 
